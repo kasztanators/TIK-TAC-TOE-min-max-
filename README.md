@@ -1,2 +1,2 @@
-# TIK-TAC-TOE-min-max-
-tik-tac-toe solver
+# TIC-TAC-TOE-min-max-
+tic-tac-toe solver
