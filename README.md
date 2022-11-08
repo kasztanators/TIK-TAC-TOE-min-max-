@@ -7,7 +7,7 @@ Examples:
 Input:
 
 GEN_ALL_POS_MOV 3 3 3 2
-1 0 0
+<div>1 0 0</div>
 0 0 0
 0 0 0
 
